@@ -1,0 +1,22 @@
+ESPN_Lite_Back-end/node_modules
+ESPN_Lite_Front-end/node_modules 
+
+
+# testing
+ESPN_Lite_Front-end/coverage
+
+# production
+ESPN_Lite_Front-end/build
+
+# misc
+.DS_Store 
+ESPN_Lite_Back-end/.DS_Store 
+ESPN_Lite_Front-end/.DS_Store 
+ESPN_Lite_Front-end/.env.local
+ESPN_Lite_Front-end/.env.development.local
+ESPN_Lite_Front-end/.env.test.local
+ESPN_Lite_Front-end/.env.production.local
+
+ESPN_Lite_Front-end/npm-debug.log*
+ESPN_Lite_Front-end/yarn-debug.log*
+ESPN_Lite_Front-end/yarn-error.log*

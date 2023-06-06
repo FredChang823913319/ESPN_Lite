@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "club_name": "Paris Saint-Germain",
+    "player_face_url": "https://cdn.sofifa.net/players/158/023/22_120.png",
+    "age": 34
+  },
+  {
+    "id": 2,
+    "name": "Robert Lewandowski",
+    "club_name": "FC Bayern Munich",
+    "player_face_url": "https://cdn.sofifa.net/players/188/545/22_120.png",
+    "age": 32
+  },
+  {
+    "id": 3,
+    "name": "Cristiano Ronaldo dos Santos Aveiro",
+    "club_name": "Manchester United",
+    "player_face_url": "https://cdn.sofifa.net/players/020/801/22_120.png",
+    "age": 36
+  },
+  {
+    "id": 4,
+    "name": "Neymar da Silva Santos junior",
+    "club_name": "Paris Saint-Germain",
+    "player_face_url": "https://cdn.sofifa.net/players/190/871/22_120.png",
+    "age": 29
+  },
+  {
+    "id": 5,
+    "name": "Kevin De Bruyne",
+    "club_name": "Manchester City",
+    "player_face_url": "https://cdn.sofifa.net/players/192/985/22_120.png",
+    "age": 30
+  },
+  {
+    "id": 6,
+    "name": "Jan Oblak",
+    "club_name": "Atletico de Madrid",
+    "player_face_url": "https://cdn.sofifa.net/players/200/389/22_120.png",
+    "ag": 30
+  },
+  {
+    "id": 7,
+    "name": "Kylian Mbappe",
+    "club_name": "Paris Saint-Germain",
+    "player_face_url": "https://cdn.sofifa.net/players/231/747/22_120.png",
+    "age": 30
+  },
+  {
+    "id": 8,
+    "name": "Manuel Peter Neuer",
+    "club_name": "FC Bayern Munich",
+    "player_face_url": "https://cdn.sofifa.net/players/167/495/22_120.png",
+    "age": 30
+  },
+  {
+    "id": 9,
+    "name": "Marc-Andre ter Stegen",
+    "club_name": "FC Barcelona",
+    "player_face_url": "https://cdn.sofifa.net/players/192/448/22_120.png",
+    "age": 30
+  },
+  {
+    "id": 10,
+    "name": "Harry Kane",
+    "club_name": "Tottenham Hotspur",
+    "player_face_url": "https://cdn.sofifa.net/players/202/126/22_120.png",
+    "age": 30
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
