@@ -1,5 +1,5 @@
 # ESPN_Lite <br>
-### Sign-in-Register <img width="1480" alt="sign-in-register" src="https://github.com/FredChang823913319/ESPN_Lite/assets/32021162/a97371ad-6a62-46b7-874b-927c7bee44f6">
+### sign-in-register <img width="1480" alt="sign-in-register" src="https://github.com/FredChang823913319/ESPN_Lite/assets/32021162/a97371ad-6a62-46b7-874b-927c7bee44f6">
 
 ### homepage  <br>
 <img width="1566" alt="homepage" src="https://github.com/FredChang823913319/ESPN_Lite/assets/32021162/fb8fe394-71b4-4fa0-af64-7fe5def20ce3">
