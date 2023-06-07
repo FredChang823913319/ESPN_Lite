@@ -195,5 +195,5 @@ class App extends Component {
     );
   }
 }
-// <section style={{ backgroundImage: "url('https://images.unsplash.com/photo-1504016798967-59a258e9386d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80')", backgroundSize: "cover", backgrounRepeat: "norepeat", position: "fixed", width: "100%", height: "100%" }}>
+
 export default App;
